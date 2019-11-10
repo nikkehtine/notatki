@@ -56,11 +56,14 @@ else
 * `%` - reszta z dzielenia dwóch liczb całkowitych
 
 ### Relacyjne
-* `==` - wynosi
-* `!=` - nie wynosi
+* `<` - mniejszy
+* `>` - większy
+* `==` - równy
+* `!=` - różny
 * `>=` - większy lub równy
 * `<=` - mniejszy lub równy
 
 ### Logiczne
 * `&&` - **AND** - oba warunki naraz spełnione
 * `||` - **OR** - przynajmniej jeden warunek spełniony
+* `!` - odwraca wartość z *true* na *false* i odwrotnie
