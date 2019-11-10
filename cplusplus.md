@@ -47,15 +47,20 @@ else
 }
 ```
 
-## Operatory matematyczne
-### Działanie
-* `+` - dodać
-* `-` - odjąć
+## Operatory
+### Arytmetyczne
+* `+` - dodawanie
+* `-` - odejmowanie
+* `*` - mnożenie
+* `/` - dzielenie
+* `%` - reszta z dzielenia dwóch liczb całkowitych
 
-### Porównanie
+### Relacyjne
 * `==` - wynosi
 * `!=` - nie wynosi
+* `>=` - większy lub równy
+* `<=` - mniejszy lub równy
 
-## Bramki logiczne
+### Logiczne
 * `&&` - **AND** - oba warunki naraz spełnione
 * `||` - **OR** - przynajmniej jeden warunek spełniony
