@@ -67,3 +67,12 @@ else
 * `&&` - **AND** - oba warunki naraz spełnione
 * `||` - **OR** - przynajmniej jeden warunek spełniony
 * `!` - odwraca wartość z *true* na *false* i odwrotnie
+
+## Pętle
+* `for`
+```cpp
+for(int i=1; i<=10; i++)
+{
+	//Kod do wykonania w pętli 10 razy
+}
+```
