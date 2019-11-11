@@ -1,8 +1,7 @@
 # Git
 
 ## Lokalne repozytorium
-
-* `git init` - nowe lokalne repozytorium
+* `git init` - nowe lokalne repozytorium
 * `git add <plik>` - dodaj pliki do gałęzi
 * `git add *` - dodaj wszystkie pliki do gałęzi
 * `git commit -m "Komentarz"` - wprowadź zmiany do gałęzi
