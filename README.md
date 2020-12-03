@@ -1,5 +1,5 @@
 # Notatki
-Tutaj wstawiam moje notatki z programowania oraz 
+Tutaj wstawiam moje notatki z programowania oraz narzędzi *cli*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTAwNjQwXX0=
+eyJoaXN0b3J5IjpbLTg4NzM5NDkyMV19
 -->
